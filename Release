@@ -1,0 +1,8 @@
+Origin: Bobs Repo	
+Label: Bobs tweaks Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Bobs cydia Repo - a cydia repo 
